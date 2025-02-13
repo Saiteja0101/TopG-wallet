@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+    color: white;
+}
+body img{
+    cursor: pointer;
+}
+nav button{
+    display: block;
+    padding: 8px; 
+    color: #7b828b;
+}
+nav button:hover{
+    color: white;
+    background-color: rgb(3, 13, 23);
+    border-radius: 5px;
+}
+.dropDown-style li{
+    color: #9ca3af;
+    padding: 8px;
+    cursor: pointer;
+}
+.dropDown-style li:hover{
+    color: white;
+}
