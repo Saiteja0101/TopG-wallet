@@ -1,8 +1,25 @@
-# React + Vite
+# TopG-wallet
+I designed this wallet page called TopG-wallet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Used
 
-Currently, two official plugins are available:
+#### React.js: A JavaScript library for building user interfaces.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Vite: A fast build tool and development server for modern web applications.
+
+#### Tailwind CSS: A utility-first CSS framework for styling the application.
+
+## Cloning the Repository
+
+```bash
+git clone https://github.com/Saiteja0101/IPhone_15-Pro.git
+cd IPhone_15-Pro
+```
+
+## Installation
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
