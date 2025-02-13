@@ -12,8 +12,8 @@ I designed this wallet page called TopG-wallet
 ## Cloning the Repository
 
 ```bash
-git clone https://github.com/Saiteja0101/IPhone_15-Pro.git
-cd IPhone_15-Pro
+git clone https://github.com/Saiteja0101/TopG-wallet.git
+cd TopG-wallet
 ```
 
 ## Installation
